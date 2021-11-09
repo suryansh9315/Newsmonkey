@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Matney",
+            "title": "Matter Labs scores $50M from a16z to bring zero-knowledge rollup scaling to Ethereum",
+            "description": "As some of the most popular cryptocurrencies reach all-time-highs, plenty of new users and decentralized app developers are embracing the Ethereum network and quickly discovering that the blockchain remains a pretty crowded place to do business. Ethereum’s in…",
+            "url": "https://techcrunch.com/2021/11/08/matter-labs-scores-50m-from-a16z-to-bring-zero-knowledge-rollup-scaling-to-ethereum/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/1_ISUd6Kri7-RpwaQU-S1qQA.png?w=700",
+            "publishedAt": "2021-11-08T12:00:42Z",
+            "content": "As some of the most popular cryptocurrencies reach all-time-highs, plenty of new users and decentralized app developers are embracing the Ethereum network and quickly discovering that the blockchain … [+4069 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "The Station: Nuro scoops up new investors, Rivian gets sued and ride-hailing inches towards profitability",
+            "description": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every weekend in your inbox. Hello readers: Welcome to The Station, your central hub for all past, present and future means of mov…",
+            "url": "https://techcrunch.com/2021/11/08/the-station-nuro-scoops-up-new-investors-rivian-gets-sued-and-ride-hailing-inches-towards-profitability/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/08/Nuro-Vegas_Announce-5.jpg?w=711",
+            "publishedAt": "2021-11-08T12:00:18Z",
+            "content": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here just click The Station to receive it every weekend in your inbox.\r\nHello readers: Welcome to The Station, your … [+16479 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Lomas",
+            "title": "Sneaker fit startup Neatsy.ai gets $1M seed after b2b pivot",
+            "description": "Sneaker fit startup, Neatsy.ai, has snagged $1 million in seed funding after a b2b pivot. Investors in the round include Cabra VC, Flyer One VC and some unnamed business angels. The US startup, which was founded back in March 2019 by Artem Semyanov (the forme…",
+            "url": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/Screenshot-2021-11-08-at-12.12.35.png?w=736",
+            "publishedAt": "2021-11-08T11:25:48Z",
+            "content": "Sneaker fit startup, Neatsy.ai, has snagged $1 million in seed funding after a b2b pivot. Investors in the round include Cabra VC, Flyer One VC and some unnamed business angels.\r\nThe US startup, whic… [+5289 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tage Kene-Okafor",
+            "title": "Fidelity, Visa and Kingsway back South African fintech JUMO in $120M round",
+            "description": "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Management & Research Company. The round, which marks Fidelity…",
+            "url": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/09/Andrew-Watkins-Ball-JUMO2.jpg?w=600",
+            "publishedAt": "2021-11-08T08:46:12Z",
+            "content": "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Ma… [+4214 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "South Korean chipmakers will submit semiconductor data to the U.S. by Nov. 8 deadline",
+            "description": "South Korean firms Samsung Electronics and SK Hynix will disclose some semiconductor data to the U.S. government, the South Korean Ministry of Economy and Finance said.  According to a statement released on Sunday by the finance ministry, South Korea-based ch…",
+            "url": "https://techcrunch.com/2021/11/07/south-korean-chipmakers-will-submit-semiconductor-data-to-the-u-s-by-nov-8-deadline/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=600",
+            "publishedAt": "2021-11-08T06:24:42Z",
+            "content": "South Korean firms Samsung Electronics and SK Hynix will disclose some semiconductor data to the U.S. government, the South Korean Ministry of Economy and Finance said. \r\nAccording to a statement rel… [+2253 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Manish Singh",
+            "title": "Edtech startup BrightChamps comes out of stealth mode with $63 million funding",
+            "description": "BrightChamps, an Indian edtech startup focused at K12 students, has raised $63 million and is valued at nearly $500 million.",
+            "url": "https://techcrunch.com/2021/11/07/edtech-startup-brightchamps-comes-out-of-stealth-mode-with-63-million-funding/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/brightchamps.jpg?w=600",
+            "publishedAt": "2021-11-08T00:28:27Z",
+            "content": "BrightChamps, an Indian edtech startup that is attempting to bridge the learning gap left by K12 schools, said on Monday it has raised $51 million in a new financing round and $63 million to date sin… [+2785 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jacob Mullins",
+            "title": "Facebook’s 'meta-existential' pivot for survival",
+            "description": "As an investor in VR and AR since 2016, I find it cautiously encouraging to hear all the talk of “metaverse” on trending business channels today.",
+            "url": "https://techcrunch.com/2021/11/07/facebooks-meta-existential-pivot-for-survival/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/facebook-meta-rotate-pattern.jpg?w=711",
+            "publishedAt": "2021-11-07T20:59:02Z",
+            "content": "More posts by this contributor\r\nFacebook is in the fight for its life, but it won’t be the regulatory pressure that will kill it. Zuckerberg is leaning heavily on metaverse as a lifeboat to save a de… [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Tom Fletcher",
+            "title": "Digital Diplomacy 4.0: Return of the Jedi?",
+            "description": "Tom Fletcher Contributor Tom Fletcher, CMG, is principal of Hertford College, Oxford. He is a former U.K. ambassador and 10 Downing Street foreign policy adviser to three prime ministers, and a visiting professor at NYU. He is the author of the bestselling \"T…",
+            "url": "https://techcrunch.com/2021/11/07/digital-diplomacy-4-0-return-of-the-jedi/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-79562809.jpg?w=628",
+            "publishedAt": "2021-11-07T18:02:59Z",
+            "content": "As British ambassador to Lebanon, Tom Fletcher was one of the first ambassadors to “go digital.” Ten years on, he reflects on what the first wave of “technodiplomats” got right and wrong, and where d… [+8967 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "H2O.ai raises $100M at a $1.6B pre-money valuation for tools to make AI usable by any kind of enterprise",
+            "description": "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services — has seen a surge of interest as AI applications have become…",
+            "url": "https://techcrunch.com/2021/11/07/h2o-ai-raises-100m-at-a-1-7b-valuation-for-tools-to-make-ai-usable-by-any-kind-of-enterprise/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/27307283983_c56396a33a_k.jpg?w=711",
+            "publishedAt": "2021-11-07T13:00:45Z",
+            "content": "H2O.ai — a startup that has developed an open-source framework as well as proprietary apps that make it easier for any kind of enterprise to build and operate artificial intelligence-based services —… [+7936 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "All things in moderation, including moderation",
+            "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. Indiegogo, an early startup that capitalized on the crowdfunding movement, will begin more closely screening crowdfunding c…",
+            "url": "https://techcrunch.com/2021/11/06/all-things-in-moderation-including-moderation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/crowdfunding.jpg?w=600",
+            "publishedAt": "2021-11-06T18:02:54Z",
+            "content": "Welcome to Startups Weekly, a fresh human-first take on this weeks startup news and trends. To get this in your inbox, subscribe here.\r\nIndiegogo, an early startup that capitalized on the crowdfundin… [+9043 chars]"
+        }
+    ]
+}
